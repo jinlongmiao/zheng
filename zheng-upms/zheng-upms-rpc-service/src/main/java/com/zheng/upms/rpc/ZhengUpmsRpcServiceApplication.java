@@ -10,7 +10,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  */
 public class ZhengUpmsRpcServiceApplication {
 
-	private static final Logger LOGGER = LoggerFactory.getLogger(ZhengUpmsRpcServiceApplication.class);
+	private static final  Logger LOGGER = LoggerFactory.getLogger(ZhengUpmsRpcServiceApplication.class);
 
 	public static void main(String[] args) {
 		LOGGER.info(">>>>> zheng-upms-rpc-service 正在启动 <<<<<");
